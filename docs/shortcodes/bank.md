@@ -12,6 +12,6 @@ Tampilkan daftar logo bank yang tersedia di Toko.
 
 ## Attribut
 
-- logo : tampilkan logo (true/false)
-- atasnama : tampilkan logo (true/false)
-- norek : tampilkan logo (true/false)
+- `logo` → tampilkan logo (true/false)
+- `atasnama` → tampilkan logo (true/false)
+- `norek` → tampilkan logo (true/false)
