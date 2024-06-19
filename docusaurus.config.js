@@ -106,15 +106,15 @@ const config = {
             items: [
               {
                 label: 'Beli',
-                href: 'docs/shortcodes/beli',
+                href: '/docs/shortcodes/beli',
               },
               {
                 label: 'Sosmed',
-                href: 'docs/shortcodes/sosmed',
+                href: '/docs/shortcodes/sosmed',
               },
               {
                 label: 'Bank',
-                href: 'docs/shortcodes/bank',
+                href: '/docs/shortcodes/bank',
               },
             ],
           },
