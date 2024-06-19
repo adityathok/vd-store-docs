@@ -102,19 +102,19 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: 'Shortcodes',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Beli',
+                href: 'docs/shortcodes/beli',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Sosmed',
+                href: 'docs/shortcodes/sosmed',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Bank',
+                href: 'docs/shortcodes/bank',
               },
             ],
           },
@@ -126,8 +126,12 @@ const config = {
                 to: '/blog',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'GitHub VD-Store',
+                href: 'https://github.com/velocitydeveloper/vd-store',
+              },
+              {
+                label: 'Velocity Developer',
+                href: 'https://velocitydeveloper.com/',
               },
             ],
           },
