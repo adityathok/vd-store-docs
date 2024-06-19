@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvd_store_docs=self.webpackChunkvd_store_docs||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/vd-store-docs/blog","blogTitle":"Blog"}')}}]);
