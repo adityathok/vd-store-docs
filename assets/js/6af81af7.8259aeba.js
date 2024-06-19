@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkvd_store_docs=self.webpackChunkvd_store_docs||[]).push([[7969],{3188:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/vd-store-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
